@@ -68,8 +68,23 @@ Currently focusing on developing my skills in software development, web technolo
   <a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="60" height="60"/>
 
-</a>        
-     
+</a>     
+  <a>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"  width="60" height="60"/>
+
+</a>
+  <a>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  width="60" height="60"/>
+
+</a>
+  <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  width="60" height="60"/>
+
+</a> 
+          
+          
+          
+          
       
           
             
