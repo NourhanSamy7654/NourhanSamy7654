@@ -1,3 +1,25 @@
+# Hi there 👋 I'm Nourhan Samy
+
+💻 Computer Science Student & Aspiring Software Developer  
+
+I’m passionate about learning programming and building real projects that improve my problem-solving skills.  
+Currently focusing on developing my skills in software development, web technologies, and version control using Git & GitHub.
+
+## 🌱 Currently Learning
+- Python Programming
+- Web Development (HTML, CSS, JavaScript)
+- Git & GitHub
+- Problem Solving
+
+## 🎯 Goals
+- Build real-world projects
+- Improve coding and problem-solving skills
+- Contribute to open-source projects
+
+## 📫 How to reach me
+- Email: nsamy7834@gmail.com
+- LinkedIn: [add-your-linkedin](https://www.linkedin.com/in/nourhan-samy-4a6794237/)
+
 ## Languages and Tools
 
 <p align="left">
@@ -20,6 +42,10 @@
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+<a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
 </a>
 
 </p>
