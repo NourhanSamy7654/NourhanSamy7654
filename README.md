@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there 👋 I'm Nourhan Samy</h1>
 <p align="center"><b>Frontend Developer | React JS | JavaScript | HTML & CSS</b></p>
+<hr style="width:50px; border:1px solid #000; margin:auto;">
 
 💻 Computer Science Student & Aspiring Software Developer  
 
