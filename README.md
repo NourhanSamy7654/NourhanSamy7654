@@ -1,5 +1,6 @@
 
-# Hi there 👋 I'm Nourhan Samy
+<h1 align="center">Hi there 👋 I'm Nourhan Samy</h1>
+<p align="center"><b>Frontend Developer | React JS | JavaScript | HTML & CSS</b></p>
 
 💻 Computer Science Student & Aspiring Software Developer  
 
